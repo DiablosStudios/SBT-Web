@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": "sbt-furn-minimalista",
+      "name": "SBT Furnture minimalista",
+      "slug": "sbt-furnture-minimalista",
+      "category": "furniture",
+      "subcategory": "Mobiliario Nórdico Exclusivo",
+      "price": 350,
+      "originalPrice": 420,
+      "description": "Suite completa de mobiliario minimalista nórdico para Unturned: sillón curvo de terciopelo oscuro, mesa de centro de roble escandinavo, tazón cerámico decorativo y lámpara con luz cálida funcional.",
+      "longDescription": "Edición insignia definitiva creada por Benjamin. Diseñada minuciosamente para servidores de Unturned Roleplay y bases de alta gama. Contiene modelos con colisiones físicas optimizadas, materiales PBR de estilo vainilla refinado, animaciones interactivas de asiento y lámpara con interruptor funcional de encendido/apagado nocturno. Incluye archivos .dat y proyecto para Unity 2021 LTS con licencia perpetua para tu servidor.",
+      "image": "/src/assets/images/sbt_hero_furniture_1790300040626.jpg",
+      "gallery": [
+        "/src/assets/images/sbt_hero_furniture_1790300040626.jpg",
+        "/src/assets/images/unturned_furniture_pack_1790300054245.jpg"
+      ],
+      "mediaGallery": [
+        {
+          "id": "mg-init-1",
+          "type": "image",
+          "label": "Vista Principal",
+          "url": "/src/assets/images/sbt_hero_furniture_1790300040626.jpg",
+          "previewUrl": "/src/assets/images/sbt_hero_furniture_1790300040626.jpg"
+        },
+        {
+          "id": "mg-init-2",
+          "type": "image",
+          "label": "Ángulo Isométrico",
+          "url": "/src/assets/images/unturned_furniture_pack_1790300054245.jpg",
+          "previewUrl": "/src/assets/images/unturned_furniture_pack_1790300054245.jpg"
+        }
+      ],
+      "unturnedIds": [
+        "60301",
+        "60302",
+        "60303",
+        "60304"
+      ],
+      "unityVersion": "Unity 2021.3.29f1 (LTS)",
+      "modType": "Barricade",
+      "stockType": "unlimited",
+      "rating": 5,
+      "salesCount": 15,
+      "features": [
+        "Animación de asiento interactivo",
+        "Lámpara con punto de luz dinámico noche/día",
+        "Texturas PBR 2K optimizadas para Unturned",
+        "Colisiones de caja precisas sin bugs de glitch",
+        "Licencia perpetua para servidores multijugador"
+      ],
+      "downloadFileName": "SBT_Furniture_Minimalista_v1.unitypackage",
+      "tags": [
+        "Muebles",
+        "Nórdico",
+        "Unturned 3.0",
+        "SBT Studios"
+      ],
+      "featured": true
+    }
+  ],
+  "lastUpdated": 1790562061702
+}

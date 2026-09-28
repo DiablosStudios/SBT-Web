@@ -1,0 +1,28 @@
+{
+  "media": [
+    {
+      "id": "media-1790562071444-ah5b",
+      "name": "mueble_test.jpg",
+      "url": "/uploads/mueble_test_1790562071444_bbyot.jpg",
+      "type": "image",
+      "sizeFormatted": "1 KB",
+      "createdAt": "28/9/2026"
+    },
+    {
+      "id": "media-1",
+      "name": "sbt_hero_furniture.jpg",
+      "url": "/src/assets/images/sbt_hero_furniture_1790300040626.jpg",
+      "type": "image",
+      "sizeFormatted": "184 KB",
+      "createdAt": "26/09/2026"
+    },
+    {
+      "id": "media-2",
+      "name": "unturned_furniture_pack.jpg",
+      "url": "/src/assets/images/unturned_furniture_pack_1790300054245.jpg",
+      "type": "image",
+      "sizeFormatted": "210 KB",
+      "createdAt": "26/09/2026"
+    }
+  ]
+}
